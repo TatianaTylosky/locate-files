@@ -11,6 +11,7 @@ def findAllFiles( fileDirectory, fileExtension ):
 
 		print returnFiles
 		return returnFiles
+		
 	else:
 		print "not a directory"
 
